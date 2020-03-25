@@ -1,0 +1,9 @@
+Package: FieldingLakeTroutOP2020
+Type: Package
+Title: Insert title
+Version: 1.0
+Date: 2020-03-25
+Author: Jordy Bernard
+Maintainer: Complain to <jordy.bernard@alaska.gov>
+Description: More about what it does (maybe more than one line)
+License: MIT
